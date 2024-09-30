@@ -1,11 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumarcu&label=Profile%20views&color=0e75b6&style=flat" alt="amankumarcu" /> </p>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="amankumarcu" /> 
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" alt="amankumarcu" /> </p>
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Aman Kumar</h1>
 <h3 align="center">A Passionate Java Full Stack/Web developer | Software Engineer Enthusiast</h3>
 
 <br/>
 
-<img align="right" alt="coding" width="400"  src="[https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif](https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=790b7611p87fk8xjmw0o0kzhga8xv4pzt1w7x0i7p015qcpo&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
+<img align="right" alt="coding" width="400"  src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
 
 - 🔭 I’m currently working as *Open Source Contributor*
