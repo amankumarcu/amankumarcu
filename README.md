@@ -1,5 +1,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumarcu&label=Profile%20views&color=0e75b6&style=flat" alt="amankumarcu" /> </p>
-<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" alt="amankumarcu" /> </p>
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Aman Kumar</h1>
 <h3 align="center">A Passionate Java Full Stack/Web developer | Software Engineer Enthusiast</h3>
 
