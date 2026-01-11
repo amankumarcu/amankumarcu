@@ -42,7 +42,6 @@
 
    ![Reactjs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
    ![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-   ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
    ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
    ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
    ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -51,7 +50,7 @@
   
     ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
     ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-    ![Oracle](https://img.shields.io/badge/Oracle-CC2927?style=for-the-badge&logo=oracle&logoColor=white) 
+    ![Postgres](https://img.shields.io/badge/Postgres-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) 
     ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
 
     
@@ -70,25 +69,3 @@
     ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
     
 </p>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
-<br />
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amankumarcu&theme=2077" alt="Profile Summary">
-</td>
-</tr>
-</table>
-
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=amankumarcu&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats"/>
-</td>
-<td>
-  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=amankumarcu&theme=midnight-purple" alt="Streak Stats"/>
-</td>
-</tr>
-</table>
