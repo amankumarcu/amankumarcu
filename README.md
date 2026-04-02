@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working as *Open Source Contributor*
 
-- 🌱 I’m currently learning **Full Stack Development | MERN**
+- 🌱 I’m currently learning **Java Full Stack Development
 
 - 💬 Ask me about *Web development, Core Java, OOPS*
 
